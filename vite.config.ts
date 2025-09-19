@@ -1,4 +1,6 @@
     import { defineConfig } from "vite";
+    import Header from '@/components/layout/Header';
+    import Footer from '@/components/layout/Footer';
     import react from "@vitejs/plugin-react-swc";
     import path from "path";
 
