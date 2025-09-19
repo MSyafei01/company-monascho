@@ -1,14 +1,14 @@
     import { defineConfig } from "vite";
     import react from "@vitejs/plugin-react-swc";
     import path from "path";
-    import { viteSourceLocator } from "vite-plugin-source-locator";
 
     // https://vitejs.dev/config/
     export default defineConfig(({ mode }) => ({
     plugins: [
-        viteSourceLocator({
-        prefix: "mgx",
-        }),
+        // Hapus/disable karena package tidak ada
+        // viteSourceLocator({
+        //   prefix: "mgx",
+        // }),
         react(),
     ],
     resolve: {
