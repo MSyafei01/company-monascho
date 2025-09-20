@@ -39,11 +39,11 @@
             <div className="flex items-center space-x-4">
                 <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4" />
-                <span>+62 812 3456 7890</span>
+                <span>+62 821 3983 1330</span>
                 </div>
                 <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span>info@cvarrohmah.com</span>
+                <span>monaschojember@gmail.com</span>
                 </div>
             </div>
             <div className="hidden md:block">
