@@ -4,7 +4,7 @@
 
     // https://vitejs.dev/config/
     export default defineConfig(({ mode }) => ({
-    base: "https://msyafei01.github.io/company-monascho/", 
+    base: "/company-monascho/", // 👈 
     plugins: [
         react(),
     ],
